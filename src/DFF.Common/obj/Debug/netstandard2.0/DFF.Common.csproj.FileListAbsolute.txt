@@ -1,0 +1,9 @@
+D:\C#\DFF\DFF.Common\src\DFF.Common\bin\Debug\netstandard2.0\DFF.Common.deps.json
+D:\C#\DFF\DFF.Common\src\DFF.Common\bin\Debug\netstandard2.0\DFF.Common.dll
+D:\C#\DFF\DFF.Common\src\DFF.Common\bin\Debug\netstandard2.0\DFF.Common.pdb
+D:\C#\DFF\DFF.Common\src\DFF.Common\obj\Debug\netstandard2.0\DFF.Common.csprojAssemblyReference.cache
+D:\C#\DFF\DFF.Common\src\DFF.Common\obj\Debug\netstandard2.0\DFF.Common.csproj.CoreCompileInputs.cache
+D:\C#\DFF\DFF.Common\src\DFF.Common\obj\Debug\netstandard2.0\DFF.Common.AssemblyInfoInputs.cache
+D:\C#\DFF\DFF.Common\src\DFF.Common\obj\Debug\netstandard2.0\DFF.Common.AssemblyInfo.cs
+D:\C#\DFF\DFF.Common\src\DFF.Common\obj\Debug\netstandard2.0\DFF.Common.dll
+D:\C#\DFF\DFF.Common\src\DFF.Common\obj\Debug\netstandard2.0\DFF.Common.pdb
